@@ -40,6 +40,7 @@ import { BusCard } from "./components/BusCard";
 import { Booked } from "./components/Booked";
 import { Routes, Route } from "react-router-dom";
 import About from "./components/About";
+import SocialFollow from "./components/SocialFollow";
 
 const App = () => {
   const [message, setMessage] = useState("");
